@@ -37,7 +37,7 @@
             <id>pre-unit-test</id>
             <goals>
               <goal>prepare-agent</goal>
-            <goals>
+            </goals>
           </execution>
           <execution>
             <id>post-unit-test</id>
